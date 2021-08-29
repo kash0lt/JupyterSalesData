@@ -6,3 +6,4 @@ etc/
 lib/
 .ipynb_checkpoints/
 pyvenv.cfg
+AllMonthsData.csv
